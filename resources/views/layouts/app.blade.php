@@ -3026,15 +3026,15 @@ License: For each use you must have a valid license purchased only from above li
 
 
 					<!--begin::Content-->
-					<div class="container">
 
-                    </div>
-
-
-
-
+					@yield('content')
 
 					<!--end::Content-->
+
+
+
+
+
 					<!--begin::Footer-->
 					<div class="footer py-4 d-flex flex-lg-column" id="kt_footer">
 						<!--begin::Container-->
